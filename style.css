@@ -1,0 +1,37 @@
+﻿
+body {
+	font-size: 14px;
+	font-family: "times new roman";
+	color: white;
+	background-color: rgb(0,0,38);
+}
+
+h1 {
+	color: #ffc;
+	font-weight: bold;
+}
+
+p {
+	border: 2px solid red;
+	padding: 10px;
+	margin: 10px;
+}
+
+a {
+	color: powderblue;
+	border: 1px solid pink;
+	padding: 5px;
+}
+
+.one {
+	color: pink;
+}
+
+#two {
+	background-color: red;
+}
+
+img {
+	border: 2px solid blue;
+	margin: 30px;
+}
